@@ -1,0 +1,22 @@
+{
+  "name": "commitlint-config",
+  "version": "1.0.0",
+  "description": "Shareable commitlint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carhartl/commitlint-config.git"
+  },
+  "keywords": [
+    "commitlint"
+  ],
+  "author": "Klaus Hartl",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/carhartl/commitlint-config/issues"
+  },
+  "homepage": "https://github.com/carhartl/commitlint-config#readme"
+}
