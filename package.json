@@ -1,5 +1,5 @@
 {
-  "name": "@carhartl/commitlint-config",
+  "name": "@well-crafted/commitlint-config",
   "version": "1.0.0",
   "description": "Shareable commitlint configuration",
   "main": "index.js",

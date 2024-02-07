@@ -5,10 +5,10 @@
 ## Usage
 
 ```
-npm i -g @carhartl/commitlint-config
-npx --yes --package="@commitlint/cli" --package="@carhartl/commitlint-config" \
-  commitlint --extends "@carhartl/commitlint-config" --edit
+npm i -g @well-crafted/commitlint-config
+npx --yes --package="@commitlint/cli" --package="@well-crafted/commitlint-config" \
+  commitlint --extends "@well-crafted/commitlint-config" --edit
 ```
 
-Installing `@carhartl/commitlint-config` globally is required as a workaround for as long as
+Installing `@well-crafted/commitlint-config` globally is required as a workaround for as long as
 https://github.com/conventional-changelog/commitlint/issues/613 isn't fixed.
